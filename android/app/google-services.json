@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810131550865",
+    "project_id": "healthy-life-dec71",
+    "storage_bucket": "healthy-life-dec71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810131550865:android:2badc8641493ffe7460530",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810131550865-d3on3g0u4221po4mven6pl0il55rurer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjDDXSR4TbOhald5UVfd5nxG2-y8JJa7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810131550865-d3on3g0u4221po4mven6pl0il55rurer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
