@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_application_1/screens/normal.dart';
 import 'package:flutter_application_1/utils/constants.dart';
 import 'package:flutter_application_1/widgets/bottom_button_widget.dart';
 import 'package:flutter_application_1/widgets/card1_widget.dart';
@@ -96,6 +97,12 @@ class BMIResult extends StatelessWidget {
                                     MaterialPageRoute(
                                         builder: (context) =>
                                             const OverWeight()));
+                              }
+                              if (bmiResult == 'Normal') {
+                                Navigator.push(
+                                    context,
+                                    MaterialPageRoute(
+                                        builder: (context) => const Normal()));
                               }
                             })
                       ]),
